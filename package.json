@@ -1,0 +1,19 @@
+{
+  "name": "saxios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "module": "ESNext",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.0.0",
+    "axios": "^1.4.0",
+    "typescript": "^5.0.4"
+  }
+}
